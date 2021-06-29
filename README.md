@@ -9,7 +9,7 @@ be displayed as:
 1. Attendance Report
 2. Edit Subjects
 3. Mark Attendance
-4. Exit
+4. Exit<br>
 When the 1st option is selected i.e. Attendance report then it display the subject 
 name followed by number of lectures attended and number of lectured not attended 
 and total number of lecture of respective subject as well as the percentage of that 
@@ -33,7 +33,7 @@ be displayed as:
 1. Attendance Report
 2. Edit Subjects
 3. Mark Attendance
-4. Exit
+4. Exit<br>
 When the 1st option is selected i.e. Attendance report then it display the subject 
 name followed by number of lectures attended and number of lectured not attended 
 and total number of lecture of respective subject as well as the percentage of that 
